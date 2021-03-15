@@ -1,6 +1,6 @@
 # GANs-for-Image-to-Image-Translation
 
-Pix2pix GAN and Cycle GAN was used to create synthetic smoke data.
+Pix2pix GAN and Cycle GAN were used to create synthetic smoke data.
 
 References :
 
